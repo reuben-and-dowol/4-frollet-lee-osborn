@@ -3,10 +3,10 @@
   font-family: "Inconsolata", sans-serif;
 }
 
-.bgimg {
+.img-1 {
   background-position: center;
   background-size: cover;
-  background-image: url("/w3images/coffeehouse.jpg");
+  background-image: url(/img/frollet-logo-final.jpg);
   min-height: 75%;
 }
 
