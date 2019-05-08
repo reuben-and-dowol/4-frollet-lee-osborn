@@ -5,9 +5,8 @@
 
 .img-1 {
   background-position: center;
-  background-size: cover;
   background-image: url(/img/frollet-logo-final.jpg);
-  min-height: 75%;
+  min-height: 80%;
 }
 
 .menu {
