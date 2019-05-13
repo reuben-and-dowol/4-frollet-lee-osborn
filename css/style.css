@@ -45,3 +45,6 @@
 .w3-hover-theme:hover {color:#fff !important; background-color:#418a1d !important}
 .w3-hover-text-theme:hover {color:#418a1d !important}
 .w3-hover-border-theme:hover {border-color:#418a1d !important}
+
+/* Slideshow */
+.mySlides {display:none;}
