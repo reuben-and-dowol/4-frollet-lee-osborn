@@ -3,10 +3,9 @@
   font-family: "Inconsolata", sans-serif;
 }
 
-.img-1 {
-  background-position: center;
-  background-image: url(/img/frollet-logo-final.jpg);
-  min-height: 70%;
+.img-responsive {
+    width: 100%;
+    height: auto
 }
 
 .section {
