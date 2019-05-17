@@ -1,11 +1,16 @@
  body, html {
   height: 100%;
-  font-family: "Inconsolata", sans-serif;
+  font-family: 'Bree Serif', serif;
 }
 
 .img-responsive {
     width: 100%;
     height: auto
+}
+
+.img-1 {
+    margin-top: 20px;
+    margin-bottom: 20px
 }
 
 .section {
