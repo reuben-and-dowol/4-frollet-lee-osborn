@@ -3,6 +3,14 @@
   font-family: 'Bree Serif', serif;
 }
 
+.border {
+    border: 5px solid #418a1d;
+}
+
+h4, p {
+    color: white
+}
+
 .img-responsive {
     width: 100%;
     height: auto
